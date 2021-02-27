@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision on RoboAlgorithms</title>
+    <link>https://roboalgorithms.com/tags/computer-vision/</link>
+    <description>Recent content in computer vision on RoboAlgorithms</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Feb 2021 17:00:00 +0100</lastBuildDate><atom:link href="https://roboalgorithms.com/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camera Response Function</title>
+      <link>https://roboalgorithms.com/posts/camera-response-function/</link>
+      <pubDate>Sat, 27 Feb 2021 17:00:00 +0100</pubDate>
+      
+      <guid>https://roboalgorithms.com/posts/camera-response-function/</guid>
+      <description>First principles exploration 👋 The goal of this article is to explore the topic of the camera response function experimentally. We&amp;rsquo;ll build up from first principles and the main focus will be on building intuition with code examples. The only pre-requisite is base familiarity with Python + NumPy and, of course, curiosity about the topic. 🧑‍🚀
+If you&amp;rsquo;re looking for a quick way to find out the response function of your camera, you can check out the implementation of CalibrateDebevec in OpenCV, or stick around to get a deeper intuition.</description>
+    </item>
+    
+  </channel>
+</rss>

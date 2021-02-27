@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>https://roboalgorithms.com/tags/computer-vision/</loc>
+    <lastmod>2021-02-27T17:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://roboalgorithms.com/posts/</loc>
+    <lastmod>2021-02-27T17:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roboalgorithms.com/tags/python/</loc>
     <lastmod>2021-02-27T17:00:00+01:00</lastmod>
   </url>
   
@@ -18,11 +28,12 @@
   </url>
   
   <url>
-    <loc>https://roboalgorithms.com/categories/</loc>
+    <loc>https://roboalgorithms.com/tags/</loc>
+    <lastmod>2021-02-27T17:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://roboalgorithms.com/tags/</loc>
+    <loc>https://roboalgorithms.com/categories/</loc>
   </url>
   
 </urlset>
